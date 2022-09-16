@@ -1,4 +1,4 @@
-## Olá eu sou Adriano Brancaglione Estudande de Analise de Sistemas
+## Olá eu sou Adriano Brancaglione Estudante de Análise e Desenvolvimento de Sistemas
 
 <div align="center">
   <a href="https://github.com/adrianobrancaglione">
